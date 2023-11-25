@@ -9,4 +9,6 @@ basic.forever(function () {
     basic.pause(500)
     basic.showNumber(5)
     basic.pause(500)
+    basic.showNumber(6)
+    basic.pause(500)
 })
